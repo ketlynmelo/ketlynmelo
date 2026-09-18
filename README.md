@@ -8,7 +8,6 @@ Sou estudante de Desenvolvimento de Sistemas, interessada em tecnologia e progra
 -  Desenvolvendo projetos **Web**
 -  Aprendendo e praticando **bancos de dados e SQL**
 -  Trabalhando com **PHP, C#, JavaScript, HTML e CSS**
--  Aprimorando lógica de programação e resolução de problemas
 
 ---
 
