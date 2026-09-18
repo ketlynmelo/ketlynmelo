@@ -1,3 +1,13 @@
+### 🎯 Atualmente
+
+- 📚 Estudando **Desenvolvimento de Sistemas**
+- 🌐 Desenvolvendo projetos **Web**
+- 🗄️ Aprendendo e praticando **bancos de dados e SQL**
+- 🔧 Trabalhando com **PHP, C#, JavaScript, HTML e CSS**
+- 🧠 Aprimorando lógica de programação e resolução de problemas
+- 💼 Buscando minha **primeira oportunidade profissional na área de desenvolvimento**
+
+---
 
 ## 🛠️ Habilidades e Ferramentas
 
