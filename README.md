@@ -1,11 +1,14 @@
-### 🎯 Atualmente
+## 👤 Sobre mim
 
-- 📚 Estudando **Desenvolvimento de Sistemas**
-- 🌐 Desenvolvendo projetos **Web**
-- 🗄️ Aprendendo e praticando **bancos de dados e SQL**
-- 🔧 Trabalhando com **PHP, C#, JavaScript, HTML e CSS**
-- 🧠 Aprimorando lógica de programação e resolução de problemas
-- 💼 Buscando minha **primeira oportunidade profissional na área de desenvolvimento**
+Sou estudante de Desenvolvimento de Sistemas, interessada em tecnologia e programação. Tenho buscado desenvolver minhas habilidades através de projetos práticos, explorando diferentes linguagens e ferramentas. Meu objetivo é continuar aprendendo, ganhar experiência e crescer profissionalmente na área de desenvolvimento.
+
+### 💻 Atualmente
+
+-  Estudando **Desenvolvimento de Sistemas**
+-  Desenvolvendo projetos **Web**
+-  Aprendendo e praticando **bancos de dados e SQL**
+-  Trabalhando com **PHP, C#, JavaScript, HTML e CSS**
+-  Aprimorando lógica de programação e resolução de problemas
 
 ---
 
